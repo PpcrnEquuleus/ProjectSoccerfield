@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectSoccerfield</string>
+
+    <string name="signin">เข้าใข้</string>
+    <string name="signup">สมัครสมาชิก</string>
+
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="id_card">Id_card</string>
+</resources>
